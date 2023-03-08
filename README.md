@@ -8,3 +8,6 @@
 - Find Pivot Index: https://leetcode.com/problems/find-pivot-index/
 - Richest customer health: https://leetcode.com/problems/richest-customer-wealth/
 - Shuffle array: https://leetcode.com/problems/shuffle-the-array/
+- Average of levels in a tree: https://leetcode.com/problems/average-of-levels-in-binary-tree
+
+
