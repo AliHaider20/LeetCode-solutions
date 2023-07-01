@@ -9,5 +9,7 @@
 - Richest customer health: https://leetcode.com/problems/richest-customer-wealth/
 - Shuffle array: https://leetcode.com/problems/shuffle-the-array/
 - Average of levels in a tree: https://leetcode.com/problems/average-of-levels-in-binary-tree
+- Group Anagrams: https://leetcode.com/problems/group-anagrams/
+
 
 
